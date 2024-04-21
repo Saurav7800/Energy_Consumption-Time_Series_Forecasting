@@ -14,6 +14,7 @@ The PJM Hourly Energy Consumption Data is sourced from Kaggle and comprises hour
 
 ## Files
 
+- **Hourly_Energy_Consumption.ipynb**: Holds the code for analyzing and predicting energy consumption data.
 - **PJME_hourly.csv**: Contains the raw energy consumption data for analysis.
 
 ## Dependencies
