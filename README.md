@@ -28,7 +28,7 @@ The PJM Hourly Energy Consumption Data is sourced from Kaggle and comprises hour
 ## Acknowledgements
 
 - Kaggle for hosting the dataset.
-- Special thanks to [Rob Mulla's](https://www.youtube.com/@robmulla) YouTube channel for insightful tutorials and guidance on time series forecasting and machine learning.
+- Special thanks to [Rob Mulla](https://www.youtube.com/@robmulla)'s YouTube channel for insightful tutorials and guidance on time series forecasting and machine learning.
 
 
 Happy forecasting!
