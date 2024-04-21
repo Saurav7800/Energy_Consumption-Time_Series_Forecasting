@@ -14,7 +14,7 @@ The PJM Hourly Energy Consumption Data is sourced from Kaggle and comprises hour
 2. Identify trends in energy consumption based on factors such as time of day, holidays, and long-term patterns.
 3. Analyze how daily consumption patterns vary depending on the time of year, contrasting summer and winter trends.
 
-## Libraries Used
+## Dependencies
 
 - pandas
 - numpy
