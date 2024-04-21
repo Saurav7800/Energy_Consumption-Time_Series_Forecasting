@@ -1,7 +1,5 @@
 # Energy Consumption - Time Series Forecasting
 
-# Time Series Forecasting with XGBoost
-
 This Python project focuses on time series forecasting using the XGBoost machine learning model to predict energy consumption. The dataset utilized for this project is the PJM Hourly Energy Consumption Data obtained from Kaggle.
 
 ## About the Dataset
